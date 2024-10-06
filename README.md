@@ -109,6 +109,8 @@ effects affect vulnerable regions
 - Understand that climate change is a global effort, and climate consequences are
 extreme
 
+![Screenshot of Interactive Web App](Screenshot.png)
+
 [Link to interactive map](https://splodster.itch.io/nasa-space-apps-globe-view)
 
 
