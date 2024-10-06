@@ -20,6 +20,7 @@ and measure progress made
 4. Screenshot
 5. Lesson Plan (MD format)
 6. Short Presentation
+7. Published Game Link - [itch.io](https://splodster.itch.io/nasa-space-apps-globe-view)
 
 ## OUR SOLUTION
 
