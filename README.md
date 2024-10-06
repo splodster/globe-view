@@ -14,11 +14,12 @@ and measure progress made
 
 ## SUBMISSION DETAILS
 
-1. Unity Source Code
-2. Build Files
+1. Unity Source Code - [Google Drive Link](https://drive.google.com/drive/folders/1PullYnvWTBIJCxxSX4gq2l0e_9b-2Ysx?usp=sharing)
+2. Build Files (In this repo)
 3. DEMO Video
 4. Screenshot
 5. Lesson Plan (MD format)
+6. Short Presentation
 
 ## OUR SOLUTION
 
@@ -130,4 +131,3 @@ the remaining time to format and document their findings in a comprehensive
 document.
 - Ensure that students are knowledgeable and keen to participate in climate action
  LESSON PLAN
-
