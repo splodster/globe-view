@@ -21,6 +21,7 @@ and measure progress made
 5. Lesson Plan (MD format)
 6. Short Presentation
 7. Published Game Link - [itch.io](https://splodster.itch.io/nasa-space-apps-globe-view)
+8. Presentation Video - [Google Drive Link](https://drive.google.com/drive/folders/1BOdtKqXw4bDzPBWxsYqt6QV_ksqBdW_k?usp=sharing)
 
 ## OUR SOLUTION
 
