@@ -111,6 +111,8 @@ extreme
 
 [Link to interactive map](https://splodster.itch.io/nasa-space-apps-globe-view)
 
+<iframe frameborder="0" src="https://itch.io/embed/3019431" width="552" height="167"><a href="https://splodster.itch.io/nasa-space-apps-globe-view">NASA Space Apps Globe-View by splodster</a></iframe>
+
 #### MAKING A MITIGATION PLAN - 40 Minutes
 
 - Students in groups can collectively write a plan using *Bloom's Taxonomy* to
