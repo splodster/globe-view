@@ -15,7 +15,7 @@ and measure progress made
 ## SUBMISSION DETAILS
 
 1. Unity Source Code - [Google Drive Link](https://drive.google.com/drive/folders/1PullYnvWTBIJCxxSX4gq2l0e_9b-2Ysx?usp=sharing)
-2. Build Files (In this repo)
+2. [Build Files (In this repo)](/build/)
 3. [DEMO Video](/demo/)
 4. [Screenshot](/Screenshot.png)
 5. [Lesson Plan (MD format)](/LESSONPLAN.md)
