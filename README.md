@@ -16,7 +16,7 @@ and measure progress made
 
 1. Unity Source Code - [Google Drive Link](https://drive.google.com/drive/folders/1PullYnvWTBIJCxxSX4gq2l0e_9b-2Ysx?usp=sharing)
 2. [Build Files (In this repo)](/build/)
-3. [DEMO Video](/demo/)
+3. [DEMO Video](/demo/) - [Youtube Link](https://youtu.be/foGPuq08gFE)
 4. [Screenshot](/Screenshot.png)
 5. [Lesson Plan (MD format)](/LESSONPLAN.md)
 6. [Short Presentation](/Presentation.pdf)
