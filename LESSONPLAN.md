@@ -1,28 +1,4 @@
-# NASA SPACE APPS CHALLENGE
-
-## CHALLENGE
-
-The challenge is 'UNSDGs in the classroom'
-
-Objectives:
-
-- Develop a lesson plan that educates students about an SDG
-- Develop new and exciting methods to educate students in ways that organically
-align with the classroom
-- Important to incorporate material that can help students realise the SDG
-and measure progress made
-
-## SUBMISSION DETAILS
-
-1. Unity Source Code
-2. Build Files
-3. DEMO Video
-4. Screenshot
-5. Lesson Plan (MD format)
-
-## OUR SOLUTION
-
-### LESSON PLAN
+# Lessson Plan
 
 Context: A geography class on climate vulnerable regions
 
@@ -35,49 +11,48 @@ Lesson Objectives
 
 Lesson Duration: 60 Minutes
 
-### Lesson Outline
 
-#### INTRODUCTION - 100 mins
+## INTRODUCTION - 100 mins
 
 - Teacher goes through types of regions that are vulnerable to climate
 - i.e SIDS, Arctic, Sub-Saharan Africa, Coastal/Low-lying Areas, Amazon,
 Glaciers, Coral Reefs
 
-##### SIDS
+### SIDS
 
 > *Small Island Developing States* (SIDS), i.e Maldives, Tuvalu
 > Vulnerable to rising sea levels, coastal erosion, leading to
 > agricultural harm and destruction of human settlements
 
-##### ARCTIC
+### ARCTIC
 
 > Arctic Region, which is warming at the twice the global average,
 > will disrupt ecosystems and global sea levels due to the rapid melting
 > of sea ice and permafrost.
 
-##### COASTAL/LOW-LYING AREAS
+### COASTAL/LOW-LYING AREAS
 
 > Coastal cities are extremely vulnerable to sea-level rise, storm surges
 > and flooding. A higher population density further propagates the risks,
 > affecting infrastructure and economies.
 
-##### AMAZON
+### AMAZON
 
 > Deforestation, drought and wildfires are becoming increasingly frequent,
 > affecting the ecosystem negatively.
 
-##### ANDEAN REGION
+### ANDEAN REGION
 
 > Rapid melting of glaciers threaten water supplies who rely on glacier-fed
 > rivers for drinking water, irrigation and hydroelectric power.
 
-#### CASE STUDIES - 20 Minutes
+## CASE STUDIES - 20 Minutes
 
 - Conduct research on the internet in groups for climate events that had
 a negative impact on climate-vulnerable regions
 - Present your findings in a short summary
 
-##### CASE STUDY OF TUVALU
+### CASE STUDY OF TUVALU
 
 > ## Statistics
 >
@@ -110,7 +85,7 @@ a negative impact on climate-vulnerable regions
 > pre-industrial levels. There is also a migration strategy, to allow Tuavaluans
 > to relocate to neighboring countries, while preserving their culture
 
-#### INTERACTIVE GEOGRAPHICAL INFORMATION MAP - 20 Minutes
+## INTERACTIVE GEOGRAPHICAL INFORMATION MAP - 20 Minutes
 
 - Student use the interactive globe tool to learn more about how global climate
 effects affect vulnerable regions
@@ -121,7 +96,7 @@ extreme
 
 [Link to interactive map](https://splodster.itch.io/nasa-space-apps-globe-view)
 
-#### MAKING A MITIGATION PLAN - 40 Minutes
+## MAKING A MITIGATION PLAN - 40 Minutes
 
 - Students in groups can collectively write a plan using *Bloom's Taxonomy* to
 prepare a plan, calling their fellows to action with evidence and reasoning
@@ -129,5 +104,3 @@ prepare a plan, calling their fellows to action with evidence and reasoning
 the remaining time to format and document their findings in a comprehensive
 document.
 - Ensure that students are knowledgeable and keen to participate in climate action
- LESSON PLAN
-
