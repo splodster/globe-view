@@ -111,7 +111,6 @@ extreme
 
 [Link to interactive map](https://splodster.itch.io/nasa-space-apps-globe-view)
 
-![ITCH](https://itch.io/embed/3019431)
 
 
 #### MAKING A MITIGATION PLAN - 40 Minutes
